@@ -38,7 +38,7 @@ require (
 	github.com/uber/jaeger-client-go v2.20.1+incompatible // indirect
 	go.etcd.io/bbolt v1.3.3
 	go.opencensus.io v0.22.2
-	golang.org/x/crypto v0.0.0-20200117160349-530e935923ad
+	golang.org/x/crypto v0.0.0-20200208060501-ecb85df21340
 	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d
 	golang.org/x/sys v0.0.0-20200121082415-34d275377bf9 // indirect
 	google.golang.org/api v0.14.0
